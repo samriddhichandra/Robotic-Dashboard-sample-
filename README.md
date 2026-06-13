@@ -2,6 +2,11 @@
 
 Insight.IO is a React and Vite dashboard prototype for monitoring an autonomous robotics session. It combines a 3D point-cloud map viewer, camera feed simulation, mission status controls, and operator widgets in a focused operations interface.
 
+## Screenshots
+
+![Demo 1](./dist/assets/demo1.png)
+![Demo 2](./dist/assets/demo_2.png)
+
 ## Features
 
 - Interactive 3D `.pcd` point-cloud viewer with orbit controls
