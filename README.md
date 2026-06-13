@@ -4,8 +4,8 @@ Insight.IO is a React and Vite dashboard prototype for monitoring an autonomous 
 
 ## Screenshots
 
-![Demo 1](./dist/assets/demo1.png)
-![Demo 2](./dist/assets/demo_2.png)
+![Demo 1](./public/demo1.png)
+![Demo 2](./public/demo_2.png)
 
 ## Features
 
