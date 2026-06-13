@@ -1,6 +1,6 @@
-# Insight.IO Robotics Dashboard
+#  Robotics Dashboard
 
-Insight.IO is a React and Vite dashboard prototype for monitoring an autonomous robotics session. It combines a 3D point-cloud map viewer, camera feed simulation, mission status controls, and operator widgets in a focused operations interface.
+It is a React and Vite dashboard prototype for monitoring an autonomous robotics session. It combines a 3D point-cloud map viewer, camera feed simulation, mission status controls, and operator widgets in a focused operations interface.
 
 ## Screenshots
 
